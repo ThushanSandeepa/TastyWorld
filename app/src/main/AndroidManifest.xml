@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tasty_world">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".My_Account"></activity>
+        <activity android:name=".Delivery_Update" />
+        <activity android:name=".Add_Recipe" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity android:name=".Delivery" />
+        <activity android:name=".Delete_Edit_Recipe" />
+        <activity android:name=".ViewRecipe" />
+        <activity android:name=".Delete_Edit_Food" />
+        <activity android:name=".Payment_Edit_Delete" />
+        <activity android:name=".Food_List" />
+        <activity android:name=".addFood" />
+        <activity android:name=".Recipe" />
+        <activity android:name=".Home" />
+        <activity android:name=".Credit_Debit_Card" />
+        <activity android:name=".Payment" />
+        <activity android:name=".CheckOut" />
+        <activity android:name=".Cart" />
+        <activity android:name=".addToCart" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

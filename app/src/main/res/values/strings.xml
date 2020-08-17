@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tasty_World</string>
+    <string name="itemName">Chocolate Chip Cookies</string>
+    <string name="description">A cookie is a baked or cooked food that is typically small, flat and sweet. It usually contains flour, sugar and some type of oil or fat.</string>
+    <string name="price">Rs. 300</string>
+    <string name="item_shortDescri">12 cookie pack</string>
+    <string name="quantity">1</string>
+    <string name="itemNameC">Chocolate Eclairs</string>
+    <string name="price2">Rs. 275</string>
+    <string name="quantity2">2</string>
+    <string name="itemNameC2">Donuts - 6 pack</string>
+    <string name="price3">Rs. 500</string>
+    <string name="quantity3">1</string>
+    <string name="Cart">My Cart</string>
+    <string name="total">Total:</string>
+    <string name="tot_price">Rs. 0</string>
+    <string name="Check_Out">Check Out</string>
+    <string name="username">Chaveena</string>
+    <string name="address">477/2/A, Welivita, Kaduwela</string>
+    <string name="phone">0723488910</string>
+    <string name="address_text">Bill to the same address</string>
+    <string name="qty">Qty :</string>
+    <string name="quyNo">1</string>
+    <string name="total_val">Total</string>
+    <string name="totalprice">Rs: 300</string>
+    <string name="Shipping_fee">Shipping Fee</string>
+    <string name="ship_price">Rs. 169</string>
+    <string name="subTot">Subtotal</string>
+    <string name="final_tot">Total:</string>
+    <string name="finalTot">Rs. 469</string>
+    <string name="paymentTopic">Payment</string>
+    <string name="CreditDebit_card">Credit/Debit Card</string>
+    <string name="CardNo">Card Number</string>
+    <string name="cardName">Name on Card</string>
+    <string name="ExpireNo">Expiration (MM/YY)</string>
+    <string name="CVV">CVV</string>
+
+
+    <string name="poduct_n">Product Name</string>
+    <string name="Poduc_detail">Product Short Description</string>
+    <string name="Product_fdescri">Pruduct Description</string>
+    <string name="Product_img">Product Image</string>
+    <string name="del_cost">Dilivery Cost</string>
+    <string name="payType">Payment Type</string>
+    <string name="sellerP">Price</string>
+    <string name="item_name">Item Name</string>
+    <string name="sDescription">Short Description</string>
+    <string name="fdescrip">Description</string>
+    <string name="myPrice">My Price</string>
+
+
+    <string name="res1">Mac and Cheese - Recipe</string>
+    <string name="res2">Lasangya - Recipe</string>
+    <string name="res3">Donuts - Recipe</string>
+    <string name="recipe">Recipe</string>
+    <string name="method">Method</string>
+
+
+    <string name="f_name">Full Name</string>
+    <string name="c_no">Contact No</string>
+    <string name="province">Province</string>
+    <string name="district">District</string>
+    <string name="city">City</string>
+    <string name="addressd">Address</string>
+    <string name="lable">lable</string>
+
+
+</resources>
